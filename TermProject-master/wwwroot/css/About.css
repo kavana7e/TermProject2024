@@ -1,0 +1,31 @@
+﻿#links .nav-link, #brand .nav-link {
+    color: white;
+}
+nav {
+    background-color: #BB6765;
+    
+}
+
+body {
+    background-color: #FFDAD9;
+    color: #324F4D;
+}
+
+footer {
+    background-color: #3A5C5A;
+}
+
+address {
+    color: #BB6765;
+    font-weight:500;
+}
+
+#footer1 {
+    color: #1A2D2B;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #BB6765;
+    border-color: #BB6765;
+}
